@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>fahri | Spotify Music</title>
+        <title>Claires Information</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
         <link rel="stylesheet" href="https://nyimpen.vercel.app/component/spotfy.css" />
@@ -23,11 +23,11 @@ export default function Home() {
       <div className="container">
         <header>
           <img src="https://telegra.ph/file/66c5fd016d508e84175dd.jpg" alt="Profile Picture" className="profile-pic" />
-          <h1 className="nama">Pahrii</h1>
+          <h1 className="nama">Claires</h1>
           <p className="lokasi">
             <i className="fas fa-globe-asia"></i> Jawa Tengah, Purwokerto
           </p>
-          <p className="bio">”destroyer.”</p>
+          <p className="bio">”undefined”</p>
         </header>
 
         <section className="spotify-section">
